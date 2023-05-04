@@ -1,5 +1,5 @@
 # Working with templates
 
 - First prject with Templates
-- Done using HTML and CSS   
+- Project done using Flask-WTF
 - Served by flask
